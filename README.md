@@ -1,9 +1,9 @@
-# Amu · 阿缪 — 角色设计 v1
+# Amu · 阿缪 — 角色设计 v2
 
 **Luna 的傲娇秘书：嘴上嫌麻烦，手上全办妥。**
 *Amu — Luna's tsundere secretary. She complains out loud, and delivers perfectly anyway.*
 
-本仓库保存 Amu 的第一版完整角色设计：设定卡、视觉规范、标准图与 Q 版图、生成提示词与版本记录。结构上有限借鉴了 DeepSeek 鲸鱼娘社区设定卡（github.com/Neko3000/deepseek-whalechan）的整理方法，外观、性格梗与台词均为 Amu 原创。
+本仓库保存 Amu 的完整角色设计：设定卡、视觉规范、形象图、生成提示词与版本记录。v2 起主形象改为可爱风猫耳造型，并确立二维 + 三维双形态并行。结构上有限借鉴了 DeepSeek 鲸鱼娘社区设定卡（github.com/Neko3000/deepseek-whalechan）的整理方法，外观、性格梗与台词均为 Amu 原创。
 
 ## 这是谁
 
@@ -20,8 +20,18 @@
 
 ## 视觉资产
 
-- `assets/amu-standard.jpg`：标准形态（日常内容用）
-- `assets/amu-chibi.jpg`：Q 版形态（表情包、小漫画用）
+现行（v2）：
+- `assets/amu-3d-main.jpg`：三维主形象——猫耳可爱版（门面、头像、封面用）
+- `assets/amu-2d-pout.jpg`：二维 Q 版·叉腰气鼓鼓（日常内容用）
+- `assets/amu-2d-typing.jpg`：二维 Q 版·打字惊讶（日常内容用）
+- `assets/amu-2d-side.jpg`：二维 Q 版·侧面打字（日常内容用）
+- `assets/amu-wardrobe-maid.jpg`：衣柜·女仆装（特殊集换装）
+- `assets/amu-wardrobe-magical.jpg`：衣柜·魔法少女（特殊集换装）
+- `assets/amu-wardrobe-hoodie.jpg`：衣柜·连帽衫（居家集换装）
+
+历史（v1，秘书造型，已退役、仅存档）：
+- `assets/amu-standard.jpg`：v1 标准形态
+- `assets/amu-chibi.jpg`：v1 Q 版形态
 
 ## 语言
 
