@@ -25,6 +25,11 @@ Current (v2):
 - `assets/amu-2d-pout.jpg` — 2D chibi: arms crossed, pouting (daily content)
 - `assets/amu-2d-typing.jpg` — 2D chibi: typing, startled (daily content)
 - `assets/amu-2d-side.jpg` — 2D chibi: typing, side view (daily content)
+- `assets/amu-2d-turnaround.jpg` — 2D turnaround sheet (front / side / back, the consistency anchor)
+- `assets/amu-2d-expressions.jpg` — 2D expression sheet (smug / pouting / surprised / sleepy / laughing / teary)
+- `assets/amu-2d-act-ledger.jpg` — 2D stock action: holding a blank board (text composited in post)
+- `assets/amu-2d-act-coffee.jpg` — 2D stock action: holding coffee
+- `assets/amu-2d-act-point.jpg` — 2D stock action: pointing at the viewer
 - `assets/amu-presenter-3d.jpg` — Presenter version, 3D: formal suit host at a broadcast desk (explainer videos)
 - `assets/amu-presenter-2d.jpg` — Presenter version, 2D: pointer in hand, for code-animation explainers
 - `assets/amu-wardrobe-maid.jpg` — Wardrobe: maid outfit (special episodes)

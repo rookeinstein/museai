@@ -1,5 +1,10 @@
 # 更新记录
 
+## v2.2.0 — 2026-10-23
+- 二维设定包补全（结构参考成熟角色设定集）：新增三视图定版 amu-2d-turnaround.jpg、六格表情集 amu-2d-expressions.jpg、常用动作三张 amu-2d-act-ledger.jpg / amu-2d-act-coffee.jpg / amu-2d-act-point.jpg
+- 视觉规范新增「二维定版资料」章节：比例、线条与上色、色板（自定版图取样的 hex 值）、二维专属禁忌（任何表情不摘眼镜、道具文字一律后期合成）
+- 质检记录：三视图与表情集首稿因误用存档的 v1 秘书版参考图、且表情集漏画圆眼镜被废弃，按现行猫耳版锚点重做后通过
+
 ## v2.1.0 — 2026-10-22
 - 新增主持人版造型（国内讲解线专用）：藏青正装西服+月亮胸针+主持话筒，三维主持版 amu-presenter-3d.jpg、二维讲解版 amu-presenter-2d.jpg 入库
 - 新增英文版文档：README.en.md、character-card.en.md、visual-spec.en.md、CHANGELOG.en.md

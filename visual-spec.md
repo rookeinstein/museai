@@ -6,7 +6,7 @@
 | 形态 | 画风 | 用途 | 参考图 |
 | --- | --- | --- | --- |
 | 三维主形象 3D main | 可爱 3D、圆脸大眼 | 门面：头像、封面、重要场合 | assets/amu-3d-main.jpg |
-| 二维形态 2D chibi | 二头身 Q 版、平涂赛璐璐 | 日常连载：出图快、贴进场景自然 | assets/amu-2d-pout.jpg / amu-2d-typing.jpg / amu-2d-side.jpg |
+| 二维形态 2D chibi | 二头身 Q 版、平涂赛璐璐 | 日常连载：出图快、贴进场景自然 | 定版：assets/amu-2d-turnaround.jpg；日常：amu-2d-pout.jpg / amu-2d-typing.jpg / amu-2d-side.jpg |
 
 ## 核心视觉标识（锁定，两形态通用）
 1. **黑色高马尾 + 粉色大蝴蝶结**（black high ponytail, big pink bow）
@@ -15,6 +15,15 @@
 4. **金色月亮发卡**（golden crescent moon hairpin）——月亮 = Luna，表明她为 Luna 工作
 5. **铃铛项圈**（bell choker）
 6. **藏青 + 粉色系服装**（navy and pink palette），抱平板出镜
+
+## 二维定版资料（2026-10-23 补全，参考成熟设定集的结构整理）
+- **三视图定版**：assets/amu-2d-turnaround.jpg（正/侧/背）——二维出图的一致性锚点，任何新图先对它。
+- **表情集**：assets/amu-2d-expressions.jpg——得意、气鼓鼓、惊讶、困倦、大笑、含泪六格；单张表情另有 assets/amu-expr-*.jpg。
+- **常用动作**：举白板（后期合成文字/账本）assets/amu-2d-act-ledger.jpg；抱咖啡 assets/amu-2d-act-coffee.jpg；指点观众 assets/amu-2d-act-point.jpg。
+- **比例**：日常连载用二头身 Q 版（头身比约 1:1）；讲解主持场景用主持人二维版的偏标准比例，两者不混用进同一条片子。
+- **线条与上色**：平涂赛璐璐；描边深灰近黑、粗细均匀；阴影两段式（固有色+一层阴影色），不做厚涂渐变；脸颊固定淡粉腮红；眼睛为星空蓝（深蓝瞳+星光高光）。
+- **二维色板（自定版图取样）**：头发 #242227｜藏青深 #2B3353｜藏青 #5E6794｜蝴蝶结粉 #E2A9AA｜荷叶边浅粉 #F6BCC2｜月亮/铃铛金 #D9A441｜底纸 #FBF8F7。
+- **二维专属禁忌**：任何表情都不许摘眼镜；猫耳不许缩成发箍小耳或换色；全身出镜时尾巴必须出现；白板/招牌类道具一律留空白，文字后期合成，不让生成模型写字。
 
 ## 衣柜（同一角色、特殊场合换装，不是默认造型）
 - 女仆装 assets/amu-wardrobe-maid.jpg（特殊集）

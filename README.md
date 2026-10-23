@@ -25,6 +25,11 @@
 - `assets/amu-2d-pout.jpg`：二维 Q 版·叉腰气鼓鼓（日常内容用）
 - `assets/amu-2d-typing.jpg`：二维 Q 版·打字惊讶（日常内容用）
 - `assets/amu-2d-side.jpg`：二维 Q 版·侧面打字（日常内容用）
+- `assets/amu-2d-turnaround.jpg`：二维定版三视图（正/侧/背，一致性锚点）
+- `assets/amu-2d-expressions.jpg`：二维表情集（得意/气鼓鼓/惊讶/困倦/大笑/含泪）
+- `assets/amu-2d-act-ledger.jpg`：二维动作·举白板（文字后期合成）
+- `assets/amu-2d-act-coffee.jpg`：二维动作·抱咖啡
+- `assets/amu-2d-act-point.jpg`：二维动作·指点观众
 - `assets/amu-wardrobe-maid.jpg`：衣柜·女仆装（特殊集换装）
 - `assets/amu-wardrobe-magical.jpg`：衣柜·魔法少女（特殊集换装）
 - `assets/amu-wardrobe-hoodie.jpg`：衣柜·连帽衫（居家集换装）
