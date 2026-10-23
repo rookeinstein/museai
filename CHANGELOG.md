@@ -1,5 +1,8 @@
 # 更新记录
 
+## v2.2.1 — 2026-10-23
+- 新增透明背景 PNG 版（供视频合成直接贴用）：amu-2d-turnaround.png、amu-2d-expressions.png、amu-2d-act-ledger.png、amu-2d-act-coffee.png、amu-2d-act-point.png；由白底 JPG 经边缘连通抠图生成并逐张验过（举白板的白牌未被漏抠）
+
 ## v2.2.0 — 2026-10-23
 - 二维设定包补全（结构参考成熟角色设定集）：新增三视图定版 amu-2d-turnaround.jpg、六格表情集 amu-2d-expressions.jpg、常用动作三张 amu-2d-act-ledger.jpg / amu-2d-act-coffee.jpg / amu-2d-act-point.jpg
 - 视觉规范新增「二维定版资料」章节：比例、线条与上色、色板（自定版图取样的 hex 值）、二维专属禁忌（任何表情不摘眼镜、道具文字一律后期合成）

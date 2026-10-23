@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.2.1 — 2026-10-23
+- Added transparent-background PNG versions for direct video compositing: amu-2d-turnaround.png, amu-2d-expressions.png, amu-2d-act-ledger.png, amu-2d-act-coffee.png, amu-2d-act-point.png — produced from the white-background JPGs by edge-connected keying and verified one by one (the white board in the ledger pose was not keyed out)
+
 ## v2.2.0 — 2026-10-23
 - Completed the 2D reference pack (structured after mature character-setting repos): turnaround sheet amu-2d-turnaround.jpg, six-expression sheet amu-2d-expressions.jpg, and three stock actions amu-2d-act-ledger.jpg / amu-2d-act-coffee.jpg / amu-2d-act-point.jpg
 - Visual spec gains a "2D reference pack" section: proportions, line and color rules, a palette with hex values sampled from the turnaround, and 2D-only prohibitions (glasses never removed for any expression; prop text always composited in post)
