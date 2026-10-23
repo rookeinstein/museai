@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.3.0 — 2026-10-23
+- Added the design board amu-2d-design-board.jpg: turnaround + four close-ups (glasses / moon hairpin / bell choker / shoes) + six expressions (all wearing the round glasses) + palette on a single page; layout referenced from a mature character design sheet provided by the account owner (Chasen)
+- Shoes canon (previously unspecified): the default look now wears navy Mary Jane shoes with a small gold crescent-moon buckle and white frilled ankle socks; the 3D version matches; both visual specs (ZH/EN) updated with the board and shoe entries
+- QC note: the board's first draft dropped the glasses on five of six expressions, violating the "glasses never removed" rule; fixed in place and re-verified
+
 ## v2.2.1 — 2026-10-23
 - Added transparent-background PNG versions for direct video compositing: amu-2d-turnaround.png, amu-2d-expressions.png, amu-2d-act-ledger.png, amu-2d-act-coffee.png, amu-2d-act-point.png — produced from the white-background JPGs by edge-connected keying and verified one by one (the white board in the ledger pose was not keyed out)
 

@@ -17,12 +17,14 @@
 6. **Navy-and-pink palette**, tablet in hand
 
 ## 2D reference pack (completed 2026-10-23, structured after mature character-setting repos)
+- **Design board (added 2026-10-23)**: assets/amu-2d-design-board.jpg — a single-page board combining the turnaround, four close-up panels (glasses / moon hairpin / bell choker / shoes), six expressions and the palette; layout referenced from a mature character design sheet the user provided (Chasen). Use it first for quick reference and external display; the individual files below remain canonical.
 - **Turnaround (canonical)**: assets/amu-2d-turnaround.jpg (front / side / back) — the consistency anchor for all 2D art.
 - **Expression sheet**: assets/amu-2d-expressions.jpg — smug, pouting, surprised, sleepy, laughing, teary; singles also in assets/amu-expr-*.jpg.
 - **Stock actions**: holding a blank board (text/ledger composited later) assets/amu-2d-act-ledger.jpg; holding coffee assets/amu-2d-act-coffee.jpg; pointing at the viewer assets/amu-2d-act-point.jpg.
 - **Proportions**: 2-head chibi for daily posts; the presenter 2D version's taller proportions for explainer videos — never mix the two in one video.
 - **Lines & color**: flat cel shading; near-black even outlines; two-step shadows, no painterly gradients; fixed light-pink blush; starry blue eyes (deep blue with star highlights).
 - **2D palette (sampled from the turnaround)**: hair #242227 | deep navy #2B3353 | navy #5E6794 | bow pink #E2A9AA | frill pink #F6BCC2 | moon/bell gold #D9A441 | paper #FBF8F7.
+- **Shoes (canon added 2026-10-23, previously unspecified)**: the default look wears **navy Mary Jane shoes with a small gold crescent-moon buckle and white frilled ankle socks** — the moon buckle echoes the hairpin and the presenter brooch; the 3D version wears the same. Wardrobe/presenter outfits keep their own footwear; this is the default look's standard.
 - **2D-only prohibitions**: never remove the glasses for any expression; cat ears never shrink into a headband or change color; the tail must appear in full-body shots; boards/signs stay blank — text is composited in post, never generated.
 
 ## Wardrobe (same character, special-occasion outfits, not the default look)
